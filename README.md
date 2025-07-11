@@ -1,2 +1,2 @@
-# Blood_Test_Analysis
-An AI-powered web application that analyzes blood test reports in PDF or image format. It extracts medical data and provides key findings, possible diagnoses, and health recommendations. Built using Python, Streamlit, and Google Gemini AI, it simplifies complex lab results for everyday users.
+This project is an AI-driven web application that analyzes medical reports (PDF or image format) and provides structured summaries including key findings, possible diagnoses, and health recommendations. Built with Python, Streamlit, and Google's Gemini (Generative AI), it enables quick interpretation of lab results like CBC, FBS, HbA1c, lipid profiles, and more — especially useful for non-medical users or early triage.
+
